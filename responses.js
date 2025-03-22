@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Sync Forum Responses | SPB
 // @namespace    https://forum.blackrussia.online
-// @version      1.0.5.22
+// @version      1.0.5.23
 // @author       sak0v
 // @match       *://*.forum.blackrussia.online/*
 // @include      https://forum.blackrussia.online/index.php?threads/
