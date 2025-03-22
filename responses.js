@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Sync Forum Responses | SPB
 // @namespace    https://forum.blackrussia.online
-// @version      1.0.5.21.0
+// @version      1.0.5.21
 // @author       sak0v
 // @match       *://*.forum.blackrussia.online/*
 // @include      https://forum.blackrussia.online/index.php?threads/
-// @updateURL   https://raw.githubusercontent.com/sak0v/forumscript/main/responses.js?t=12346
+// @updateURL   https://raw.githubusercontent.com/sak0v/forumscript/main/responses.js?t=12345
+// @downloadURL https://raw.githubusercontent.com/sak0v/forumscript/main/responses.js
 // @grant        none
 // @license    MIT
 // @icon https://icons.iconarchive.com/icons/aha-soft/iron-man/48/Ironman-Mask-3-Old-icon.png
