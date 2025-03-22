@@ -5,7 +5,7 @@
 // @author       sak0v
 // @match       *://*.forum.blackrussia.online/*
 // @include      https://forum.blackrussia.online/index.php?threads/
-// @updateURL   https://raw.githubusercontent.com/sak0v/forumscript/main/responses.js?t=12345
+// @updateURL   https://raw.githubusercontent.com/sak0v/forumscript/main/responses.js?t=12346
 // @downloadURL https://raw.githubusercontent.com/sak0v/forumscript/main/responses.js
 // @grant        none
 // @license    MIT
