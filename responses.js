@@ -7,7 +7,6 @@
 // @include      https://forum.blackrussia.online/index.php?threads/
 // @updateURL   https://cdn.jsdelivr.net/gh/sak0v/forumscript@latest/responses.js
 // @downloadURL https://cdn.jsdelivr.net/gh/sak0v/forumscript@latest/responses.js
-// @grant        none
 // @license    MIT
 // @icon https://icons.iconarchive.com/icons/aha-soft/iron-man/48/Ironman-Mask-3-Old-icon.png
 // ==/UserScript==
