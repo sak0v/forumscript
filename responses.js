@@ -5,8 +5,8 @@
 // @author       sak0v
 // @match       *://*.forum.blackrussia.online/*
 // @include      https://forum.blackrussia.online/index.php?threads/
-// @updateURL   https://raw.githubusercontent.com/sak0v/forumscript/main/responses.js
-// @downloadURL https://raw.githubusercontent.com/sak0v/forumscript/main/responses.js
+// @updateURL   https://sak0v.github.io/forumscript/responses.js
+// @downloadURL https://sak0v.github.io/forumscript/responses.js
 // @license    MIT
 // @icon https://icons.iconarchive.com/icons/aha-soft/iron-man/48/Ironman-Mask-3-Old-icon.png
 // ==/UserScript==
