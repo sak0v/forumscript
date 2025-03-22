@@ -3,8 +3,7 @@
 // @namespace    https://forum.blackrussia.online
 // @version      1.0.5.25
 // @author       sak0v
-// @match       *://*.forum.blackrussia.online/*
-// @include      https://forum.blackrussia.online/index.php?threads/
+// @match       https://forum.blackrussia.online/*
 // @updateURL   https://sak0v.github.io/forumscript/responses.js
 // @downloadURL https://sak0v.github.io/forumscript/responses.js
 // @license    MIT
