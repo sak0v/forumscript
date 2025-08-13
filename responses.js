@@ -2,7 +2,7 @@
 // @name         BR SCRIPT
 // @description  Помощник ответов для форума Black Russia
 // @namespace    https://forum.blackrussia.online
-// @version      2.5
+// @version      2.6
 // @author       sak0v
 // @match       https://forum.blackrussia.online/*
 // @updateURL   https://sak0v.github.io/forumscript/responses.js
